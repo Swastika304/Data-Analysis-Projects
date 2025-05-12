@@ -10,6 +10,12 @@ total revenue across various regions, sub-categories and states.
 •	Geographic Analysis : State-wise quantity analysis highlighting top-performance regions.
 •	Category breakdown : A donut chart illustrating sales distribution across various categories.
 
+# Repository Structure
+•	Data : https://github.com/Swastika304/Data-Analysis-Projects/raw/refs/heads/main/Danbury%20Sales%20Report.xlsx
+•	Dashboard : https://github.com/Swastika304/Data-Analysis-Projects/blob/main/Danbury_sales%20report.pbix
+•	Image : https://github.com/Swastika304/Data-Analysis-Projects/blob/main/Dashboard_image.png
+
+
 # Feedback & Collaborations 
 Collaborated with cross-functional teams to define KPIs and ensure data accuracy. Received positive feedback for delivering a clear, insightful dashboard
 that supported strategic sales planning and informed decision-making. If you are interested in collaborating on similar projects or discussing data analysis opportunities, 
